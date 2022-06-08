@@ -1,2 +1,2 @@
 # Er1cKetzer.github.io
-This my CV, Hi!
+This is CV of Volodymyr Pidlisny, a developer from Ukraine.
